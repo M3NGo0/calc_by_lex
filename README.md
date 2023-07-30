@@ -5,7 +5,7 @@ https://github.com/M3NGo0/calc_by_lex/blob/f9856b3e396be0d07f6389313857e1e23007d
 
 ## change2
 - union을 이용해서 floatval 선언
-https://github.com/M3NGo0/calc_by_lex/blob/f9856b3e396be0d07f6389313857e1e23007dee9/fb1-5.y#L6
+https://github.com/M3NGo0/calc_by_lex/blob/f9856b3e396be0d07f6389313857e1e23007dee9/fb1-5.y#L6-L8
 
 ## change 3
 - 자료형이 floatval인 변수를 선언<br>
